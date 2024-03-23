@@ -1,2 +1,2 @@
 # campingpbosque
-camoping pichilemu
+camping pichilemu
